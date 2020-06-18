@@ -1,6 +1,7 @@
 {
   "name": "vscode-fluent-icons",
   "version": "0.0.1",
+  "publisher": "miguelsolorio",
   "description": "",
   "engines": {
 		"vscode": "*"
