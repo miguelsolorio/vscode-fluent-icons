@@ -1,0 +1,31 @@
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+@font-face {
+	font-family: "fluent-icons";
+	src: url("./fluent-icons.ttf?10d0d927dd6f31a53d087cd1208aa64c") format("truetype");
+}
+
+.fluent-icons {
+	font: normal normal normal 16px/1 fluent-icons;
+	display: inline-block;
+	text-decoration: none;
+	text-rendering: auto;
+	text-align: center;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+}
+
+
+.fluent-icons-debug:before { content: "\64" }
+.fluent-icons-extensions:before { content: "\65" }
+.fluent-icons-files:before { content: "\66" }
+.fluent-icons-person:before { content: "\67" }
+.fluent-icons-scm:before { content: "\68" }
+.fluent-icons-search:before { content: "\69" }
+.fluent-icons-settings:before { content: "\6a" }

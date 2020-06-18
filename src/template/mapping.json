@@ -1,0 +1,9 @@
+{
+    "debug": 100,
+    "extensions": 101,
+    "files": 102,
+    "person": 103,
+    "scm": 104,
+    "search": 105,
+    "settings": 106
+}

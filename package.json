@@ -1,0 +1,39 @@
+{
+  "name": "vscode-fluent-icons",
+  "version": "0.0.4",
+  "description": "",
+  "engines": {
+		"vscode": "*"
+	},
+	"enableProposedApi": true,
+	"contributes": {
+		"productIconThemes": [
+			{
+				"id": "fluent-icons",
+				"label": "Fluent Icons",
+				"path": "./theme/fluent-icons.json"
+			}
+		]
+	},
+  "scripts": {
+    "clean": "rm -rf dist && mkdir dist",
+    "svgo": "svgo -f src/icons/ --config config.yml",
+    "move": "sh util.sh",
+    "export-to-csv": "node src/export/index.js -f dist/fluent-icons.ttf > dist/fluent-icons.csv",
+    "fonts": "icon-font-generator src/icons/*.svg -o dist -n fluent-icons -p fluent-icons --csstp src/template/styles.hbs --height=1000 --center --codepoints src/template/mapping.json --json false --types 'ttf'",
+    "dev": "npm run clean && npm run move && npm run svgo && npm run fonts -- --html true --htmltp src/template/preview.hbs && npm run export-to-csv && cp -R dist/fluent-icons.ttf theme/fluent-icons.ttf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misolori/vscode-fluent-icons.git"
+  },
+  "author": {
+    "name": "Miguel Solorio"
+  },
+  "devDependencies": {
+    "icon-font-generator": "^2.1.10",
+    "svgo": "^1.3.2",
+    "minimist": "^1.2.3",
+    "opentype.js": "^0.6.6"
+  }
+}

@@ -1,0 +1,38 @@
+{
+	"fonts": [
+		{
+			"id": "fluent-icons",
+			"src": [
+				{
+					"path": "./fluent-icons.ttf",
+					"format": "truetype"
+				}
+			],
+			"weight": "normal",
+			"style": "normal",
+		}
+	],
+	"iconDefinitions": {
+		"debug-alt": {
+			"fontCharacter": "\\0064"
+		},
+		"extensions": {
+			"fontCharacter": "\\0065"
+		},
+		"files": {
+			"fontCharacter": "\\0066"
+		},
+		"account": {
+			"fontCharacter": "\\0067"
+		},
+		"source-control": {
+			"fontCharacter": "\\0068"
+		},
+		"search": {
+			"fontCharacter": "\\0069"
+		},
+		"settings-gear": {
+			"fontCharacter": "\\006A"
+		},
+	}
+}
