@@ -6,3 +6,11 @@
 Since this is using the proposed api for product icon themes, we're unable to publish this to the marketplace. Download the latest package from the [release](https://github.com/misolori/vscode-fluent-icons/releases) tab and manually install the vsix from the extensions list. Then you'll need to re-open code with the following flag:
 
 `code --enable-proposed-api miguelsolorio.vscode-fluent-icons`
+
+If you'd like for this to always be installed, you can open the `.vscode/argv.json` file in your home directory and add the following flag to always enable it:
+
+```json
+"enable-proposed-api": [
+    "miguelsolorio.vscode-fluent-icons"
+]
+```
