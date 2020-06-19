@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "publisher": "miguelsolorio",
   "description": "",
+  "icon": "icon.png",
   "engines": {
 		"vscode": "*"
 	},
