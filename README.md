@@ -2,9 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/misolori/vscode-fluent-icons/master/icon.png" width="140" />
 
-# Fluent Icons
-
-Fluent Icons for Visual Studio Code
+# Fluent Icons for Visual Studio Code
 
 </div>
 
