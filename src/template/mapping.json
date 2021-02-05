@@ -19,5 +19,7 @@
   "compare-changes": 10017,
   "clear-all": 10018,
   "warning": 10019,
-  "bell": 10020
+  "bell": 10020,
+  "sync": 10021,
+  "lightbulb": 10022
 }

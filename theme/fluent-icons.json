@@ -82,6 +82,12 @@
 		},
 		"bell": {
 			"fontCharacter": "\\2724"
+		},
+		"sync": {
+			"fontCharacter": "\\2725"
+		},
+		"light-bulb": {
+			"fontCharacter": "\\2726"
 		}
 	}
 }

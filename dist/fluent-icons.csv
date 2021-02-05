@@ -9,6 +9,7 @@ editor-layout,✛,271B
 error,✠,2720
 extensions,✔,2714
 files,✐,2710
+lightbulb,✦,2726
 new-file,✗,2717
 new-folder,✘,2718
 person,✕,2715
@@ -19,4 +20,5 @@ search,✑,2711
 settings,✖,2716
 split-horizontal,✞,271E
 split-vertical,✟,271F
+sync,✥,2725
 warning,✣,2723
