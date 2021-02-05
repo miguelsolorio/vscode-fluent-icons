@@ -1,5 +1,6 @@
 {
-  "name": "Fluent Icons",
+  "name": "fluent-icons",
+  "displayName": "Fluent Icons",
   "version": "0.0.1",
   "publisher": "miguelsolorio",
   "description": "Fluent product icons for Visual Studio Code",
