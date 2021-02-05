@@ -1,13 +1,15 @@
 {
-  "name": "vscode-fluent-icons",
+  "name": "Fluent Icons",
   "version": "0.0.1",
   "publisher": "miguelsolorio",
-  "description": "",
+  "description": "Fluent product icons for Visual Studio Code",
   "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
   "engines": {
 		"vscode": "*"
 	},
-	"enableProposedApi": true,
 	"contributes": {
 		"productIconThemes": [
 			{
