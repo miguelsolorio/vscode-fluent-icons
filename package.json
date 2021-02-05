@@ -9,8 +9,17 @@
     "Themes"
   ],
   "engines": {
-    "vscode": "*"
+    "vscode": "^1.53.0"
   },
+  "keywords": [
+    "icon",
+    "theme",
+    "fluent",
+    "product"
+  ],
+  "extensionKind": [
+    "ui"
+  ],
   "contributes": {
     "productIconThemes": [
       {
