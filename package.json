@@ -9,17 +9,17 @@
     "Themes"
   ],
   "engines": {
-		"vscode": "*"
-	},
-	"contributes": {
-		"productIconThemes": [
-			{
-				"id": "fluent-icons",
-				"label": "Fluent Icons",
-				"path": "./theme/fluent-icons.json"
-			}
-		]
-	},
+    "vscode": "*"
+  },
+  "contributes": {
+    "productIconThemes": [
+      {
+        "id": "fluent-icons",
+        "label": "Fluent Icons",
+        "path": "./theme/fluent-icons.json"
+      }
+    ]
+  },
   "scripts": {
     "clean": "rm -rf dist && mkdir dist",
     "svgo": "svgo -f src/icons/ --config config.yml",
