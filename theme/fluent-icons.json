@@ -9,30 +9,79 @@
 				}
 			],
 			"weight": "normal",
-			"style": "normal",
+			"style": "normal"
 		}
 	],
 	"iconDefinitions": {
-		"debug-alt": {
-			"fontCharacter": "\\0064"
-		},
-		"extensions": {
-			"fontCharacter": "\\0065"
-		},
+
 		"files": {
-			"fontCharacter": "\\0066"
-		},
-		"account": {
-			"fontCharacter": "\\0067"
-		},
-		"source-control": {
-			"fontCharacter": "\\0068"
+			"fontCharacter": "\\2710"
 		},
 		"search": {
-			"fontCharacter": "\\0069"
+			"fontCharacter": "\\2711"
+		},
+		"source-control": {
+			"fontCharacter": "\\2712"
+		},
+		"git-branch": {
+			"fontCharacter": "\\2712"
+		},
+		"debug-alt": {
+			"fontCharacter": "\\2713"
+		},
+		"extensions": {
+			"fontCharacter": "\\2714"
+		},
+		"account": {
+			"fontCharacter": "\\2715"
 		},
 		"settings-gear": {
-			"fontCharacter": "\\006A"
+			"fontCharacter": "\\2716"
 		},
+		"new-file": {
+			"fontCharacter": "\\2717"
+		},
+		"new-folder": {
+			"fontCharacter": "\\2718"
+		},
+		"refresh": {
+			"fontCharacter": "\\2719"
+		},
+		"collapse-all": {
+			"fontCharacter": "\\271a"
+		},
+		"editor-layout": {
+			"fontCharacter": "\\271b"
+		},
+		"save": {
+			"fontCharacter": "\\271c"
+		},
+		"save-all": {
+			"fontCharacter": "\\271c"
+		},
+		"close": {
+			"fontCharacter": "\\271d"
+		},
+		"error": {
+			"fontCharacter": "\\2720"
+		},
+		"split-horizontal": {
+			"fontCharacter": "\\271e"
+		},
+		"split-vertical": {
+			"fontCharacter": "\\271f"
+		},
+		"compare-changes": {
+			"fontCharacter": "\\2721"
+		},
+		"clear-all": {
+			"fontCharacter": "\\2722"
+		},
+		"warning": {
+			"fontCharacter": "\\2723"
+		},
+		"bell": {
+			"fontCharacter": "\\2724"
+		}
 	}
 }
