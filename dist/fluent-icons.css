@@ -5,7 +5,7 @@
 
 @font-face {
 	font-family: "fluent-icons";
-	src: url("./fluent-icons.ttf?5f02eb95aaee6e5621a01bcb2944f039") format("truetype");
+	src: url("./fluent-icons.ttf?d8d1f39d131fb48b20f38d17012e143c") format("truetype");
 }
 
 .fluent-icons {
@@ -45,3 +45,20 @@
 .fluent-icons-bell:before { content: "\2724" }
 .fluent-icons-sync:before { content: "\2725" }
 .fluent-icons-lightbulb:before { content: "\2726" }
+.fluent-icons-filter:before { content: "\2727" }
+.fluent-icons-gear:before { content: "\2728" }
+.fluent-icons-play:before { content: "\2729" }
+.fluent-icons-stop:before { content: "\272a" }
+.fluent-icons-debug-restart:before { content: "\272b" }
+.fluent-icons-debug-disconnect:before { content: "\404" }
+.fluent-icons-debug-step-in:before { content: "\405" }
+.fluent-icons-debug-step-out:before { content: "\406" }
+.fluent-icons-debug-step-back:before { content: "\407" }
+.fluent-icons-debug-step-over:before { content: "\408" }
+.fluent-icons-debug-pause:before { content: "\409" }
+.fluent-icons-debug-continue:before { content: "\40a" }
+.fluent-icons-debug-reverse-continue:before { content: "\40b" }
+.fluent-icons-trash:before { content: "\40c" }
+.fluent-icons-add:before { content: "\40d" }
+.fluent-icons-close-all:before { content: "\40e" }
+.fluent-icons-activate-breakpoints:before { content: "\40f" }

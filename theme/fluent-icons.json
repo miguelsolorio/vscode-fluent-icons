@@ -88,6 +88,54 @@
 		},
 		"light-bulb": {
 			"fontCharacter": "\\2726"
-		}
+		},
+		"filter": {
+			"fontCharacter": "\\2727"
+		},
+		"gear": {
+			"fontCharacter": "\\2728"
+		},
+		"debug-start": {
+			"fontCharacter": "\\2729"
+		},
+		"debug-stop": {
+			"fontCharacter": "\\272a"
+		},
+		"debug-pause": {
+			"fontCharacter": "\\409"
+		},
+		"debug-restart": {
+			"fontCharacter": "\\272b"
+		},
+		"debug-disconnect": {
+			"fontCharacter": "\\404"
+		},
+		"debug-step-into": {
+			"fontCharacter": "\\405"
+		},
+		"debug-step-out": {
+			"fontCharacter": "\\406"
+		},
+		"debug-step-back": {
+			"fontCharacter": "\\407"
+		},
+		"debug-step-over": {
+			"fontCharacter": "\\408"
+		},
+		"debug-continue": {
+			"fontCharacter": "\\40a"
+		},
+		"trash": {
+			"fontCharacter": "\\40c"
+		},
+		"add": {
+			"fontCharacter": "\\40d"
+		},
+		"close-all": {
+			"fontCharacter": "\\40e"
+		},
+		"activate-breakpoints": {
+			"fontCharacter": "\\40f"
+		},
 	}
 }

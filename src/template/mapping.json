@@ -21,5 +21,22 @@
   "warning": 10019,
   "bell": 10020,
   "sync": 10021,
-  "lightbulb": 10022
+  "lightbulb": 10022,
+  "filter": 10023,
+  "gear": 10024,
+  "play": 10025,
+  "stop": 10026,
+  "debug-restart": 10027,
+  "debug-disconnect": 1028,
+  "debug-step-in": 1029,
+  "debug-step-out": 1030,
+  "debug-step-back": 1031,
+  "debug-step-over": 1032,
+  "debug-pause": 1033,
+  "debug-continue": 1034,
+  "debug-reverse-continue": 1035,
+  "trash": 1036,
+  "add": 1037,
+  "close-all": 1038,
+  "activate-breakpoints": 1039
 }
