@@ -39,7 +39,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/misolori/vscode-fluent-icons.git"
+    "url": "https://github.com/misolori/vscode-fluent-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/misolori/vscode-fluent-icons/issues"
   },
   "author": {
     "name": "Miguel Solorio"
