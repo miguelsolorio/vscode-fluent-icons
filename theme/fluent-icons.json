@@ -146,5 +146,8 @@
 		"symbol-variable": {
 			"fontCharacter": "\\0413"
 		},
+		"remote": {
+			"fontCharacter": "\\0414"
+		},
 	}
 }

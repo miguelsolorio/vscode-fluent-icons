@@ -42,5 +42,6 @@
   "remote-explorer": 1040,
   "symbol-constructor": 1041,
   "symbol-event": 1042,
-  "symbol-variable": 1043
+  "symbol-variable": 1043,
+  "remote": 1044
 }
