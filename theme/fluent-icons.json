@@ -59,9 +59,6 @@
 		"save-all": {
 			"fontCharacter": "\\271c"
 		},
-		"close": {
-			"fontCharacter": "\\271d"
-		},
 		"error": {
 			"fontCharacter": "\\2720"
 		},
