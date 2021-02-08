@@ -39,5 +39,8 @@
   "add": 1037,
   "close-all": 1038,
   "activate-breakpoints": 1039,
-  "remote-explorer": 1040
+  "remote-explorer": 1040,
+  "symbol-constructor": 1041,
+  "symbol-event": 1042,
+  "symbol-variable": 1043
 }

@@ -5,7 +5,7 @@
 
 @font-face {
 	font-family: "fluent-icons";
-	src: url("./fluent-icons.ttf?e2e11e7c8ce98a74198451bb543ddf9d") format("truetype");
+	src: url("./fluent-icons.ttf?8ffd5ba77a85047a19d280057b26633b") format("truetype");
 }
 
 .fluent-icons {
@@ -63,3 +63,6 @@
 .fluent-icons-close-all:before { content: "\40e" }
 .fluent-icons-activate-breakpoints:before { content: "\40f" }
 .fluent-icons-remote-explorer:before { content: "\410" }
+.fluent-icons-symbol-constructor:before { content: "\411" }
+.fluent-icons-symbol-event:before { content: "\412" }
+.fluent-icons-symbol-variable:before { content: "\413" }

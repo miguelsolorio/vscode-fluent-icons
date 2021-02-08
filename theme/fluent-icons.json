@@ -137,5 +137,14 @@
 		"remote-explorer": {
 			"fontCharacter": "\\0410"
 		},
+		"symbol-function": {
+			"fontCharacter": "\\0411"
+		},
+		"symbol-event": {
+			"fontCharacter": "\\0412"
+		},
+		"symbol-variable": {
+			"fontCharacter": "\\0413"
+		},
 	}
 }
