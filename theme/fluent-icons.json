@@ -137,5 +137,8 @@
 		"activate-breakpoints": {
 			"fontCharacter": "\\40f"
 		},
+		"remote-explorer": {
+			"fontCharacter": "\\0410"
+		},
 	}
 }

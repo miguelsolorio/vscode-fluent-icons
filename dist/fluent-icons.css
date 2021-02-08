@@ -5,7 +5,7 @@
 
 @font-face {
 	font-family: "fluent-icons";
-	src: url("./fluent-icons.ttf?d8d1f39d131fb48b20f38d17012e143c") format("truetype");
+	src: url("./fluent-icons.ttf?d2c5a9e4d41a73efd998ebbfb7bef258") format("truetype");
 }
 
 .fluent-icons {
@@ -62,3 +62,4 @@
 .fluent-icons-add:before { content: "\40d" }
 .fluent-icons-close-all:before { content: "\40e" }
 .fluent-icons-activate-breakpoints:before { content: "\40f" }
+.fluent-icons-remote-explorer:before { content: "\410" }

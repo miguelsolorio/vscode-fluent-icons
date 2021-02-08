@@ -38,5 +38,6 @@
   "trash": 1036,
   "add": 1037,
   "close-all": 1038,
-  "activate-breakpoints": 1039
+  "activate-breakpoints": 1039,
+  "remote-explorer": 1040
 }
