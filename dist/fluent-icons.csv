@@ -10,7 +10,7 @@ compare-changes,✡,2721
 debug-continue,Њ,040A
 debug-disconnect,Є,0404
 debug-pause,Љ,0409
-debug-restart,✫,272B
+debug-restart,✙,2719
 debug-reverse-continue,Ћ,040B
 debug-step-back,Ї,0407
 debug-step-in,Ѕ,0405
@@ -29,7 +29,6 @@ new-file,✗,2717
 new-folder,✘,2718
 person,✕,2715
 play,✩,2729
-refresh,✙,2719
 remote-explorer,А,0410
 remote,Д,0414
 save,✜,271C
