@@ -43,5 +43,6 @@
   "symbol-constructor": 1041,
   "symbol-event": 1042,
   "symbol-variable": 1043,
-  "remote": 1044
+  "remote": 1044,
+  "live-share": 1045
 }

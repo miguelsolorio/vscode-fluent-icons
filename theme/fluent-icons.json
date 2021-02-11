@@ -149,5 +149,8 @@
 		"remote": {
 			"fontCharacter": "\\0414"
 		},
+		"live-share": {
+			"fontCharacter": "\\0415"
+		},
 	}
 }
