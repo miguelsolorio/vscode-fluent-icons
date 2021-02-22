@@ -152,5 +152,14 @@
 		"live-share": {
 			"fontCharacter": "\\0415"
 		},
+		"github": {
+			"fontCharacter": "\\0416"
+		},
+		"github-alt": {
+			"fontCharacter": "\\0416"
+		},
+		"github-inverted": {
+			"fontCharacter": "\\0416"
+		},
 	}
 }

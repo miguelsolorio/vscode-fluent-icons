@@ -44,5 +44,6 @@
   "symbol-event": 1042,
   "symbol-variable": 1043,
   "remote": 1044,
-  "live-share": 1045
+  "live-share": 1045,
+  "github": 1046
 }

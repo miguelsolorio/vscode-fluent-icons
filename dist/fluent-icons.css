@@ -5,7 +5,7 @@
 
 @font-face {
 	font-family: "fluent-icons";
-	src: url("./fluent-icons.ttf?de9027f7164c9022b99e12694092fd95") format("truetype");
+	src: url("./fluent-icons.ttf?fcf4ccbeb85a6ceb65a7373672a3d47f") format("truetype");
 }
 
 .fluent-icons {
@@ -68,3 +68,4 @@
 .fluent-icons-symbol-variable:before { content: "\413" }
 .fluent-icons-remote:before { content: "\414" }
 .fluent-icons-live-share:before { content: "\415" }
+.fluent-icons-github:before { content: "\416" }
