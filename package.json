@@ -18,7 +18,8 @@
     "product"
   ],
   "extensionKind": [
-    "ui"
+    "ui",
+    "workspace"
   ],
   "contributes": {
     "productIconThemes": [
