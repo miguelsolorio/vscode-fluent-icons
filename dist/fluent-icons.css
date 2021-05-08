@@ -5,7 +5,7 @@
 
 @font-face {
 	font-family: "fluent-icons";
-	src: url("./fluent-icons.ttf?6077a5c22a709d1ae346001a75660f3e") format("truetype");
+	src: url("./fluent-icons.ttf?c907ce09e159a0055512e467530e6c00") format("truetype");
 }
 
 .fluent-icons {
@@ -64,9 +64,34 @@
 .fluent-icons-activate-breakpoints:before { content: "\40f" }
 .fluent-icons-remote-explorer:before { content: "\410" }
 .fluent-icons-symbol-constructor:before { content: "\411" }
-.fluent-icons-symbol-event:before { content: "\412" }
-.fluent-icons-symbol-variable:before { content: "\413" }
 .fluent-icons-remote:before { content: "\414" }
 .fluent-icons-live-share:before { content: "\415" }
 .fluent-icons-github:before { content: "\416" }
 .fluent-icons-fluent:before { content: "\417" }
+.fluent-icons-symbol-key:before { content: "\418" }
+.fluent-icons-symbol-class:before { content: "\419" }
+.fluent-icons-symbol-keyword:before { content: "\41a" }
+.fluent-icons-symbol-structure:before { content: "\41b" }
+.fluent-icons-symbol-snippet:before { content: "\41c" }
+.fluent-icons-symbol-string:before { content: "\41d" }
+.fluent-icons-symbol-event:before { content: "\41e" }
+.fluent-icons-symbol-namespace:before { content: "\41f" }
+.fluent-icons-symbol-variable:before { content: "\420" }
+.fluent-icons-symbol-operator:before { content: "\421" }
+.fluent-icons-symbol-numeric:before { content: "\422" }
+.fluent-icons-symbol-enum:before { content: "\423" }
+.fluent-icons-symbol-property:before { content: "\424" }
+.fluent-icons-symbol-constant:before { content: "\425" }
+.fluent-icons-symbol-parameter:before { content: "\426" }
+.fluent-icons-symbol-misc:before { content: "\427" }
+.fluent-icons-symbol-interface:before { content: "\428" }
+.fluent-icons-symbol-field:before { content: "\429" }
+.fluent-icons-symbol-file:before { content: "\42a" }
+.fluent-icons-symbol-boolean:before { content: "\42b" }
+.fluent-icons-symbol-color:before { content: "\42c" }
+.fluent-icons-symbol-method:before { content: "\42d" }
+.fluent-icons-symbol-ruler:before { content: "\42e" }
+.fluent-icons-symbol-enum-member:before { content: "\42f" }
+.fluent-icons-symbol-array:before { content: "\430" }
+.fluent-icons-go-to-file:before { content: "\431" }
+.fluent-icons-folder:before { content: "\432" }

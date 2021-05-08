@@ -140,11 +140,8 @@
 		"symbol-function": {
 			"fontCharacter": "\\0411"
 		},
-		"symbol-event": {
-			"fontCharacter": "\\0412"
-		},
-		"symbol-variable": {
-			"fontCharacter": "\\0413"
+		"symbol-constructor": {
+			"fontCharacter": "\\0411"
 		},
 		"remote": {
 			"fontCharacter": "\\0414"
@@ -161,5 +158,107 @@
 		"github-inverted": {
 			"fontCharacter": "\\0416"
 		},
+		"symbol-key": {
+			"fontCharacter": "\\0418"
+		},
+		"symbol-class": {
+			"fontCharacter": "\\0419"
+		},
+		"symbol-keyword": {
+			"fontCharacter": "\\041a"
+		},
+		"symbol-structure": {
+			"fontCharacter": "\\041b"
+		},
+		"symbol-struct": {
+			"fontCharacter": "\\041b"
+		},
+		"symbol-snippet": {
+			"fontCharacter": "\\041c"
+		},
+		"symbol-string": {
+			"fontCharacter": "\\041d"
+		},
+		"symbol-event": {
+			"fontCharacter": "\\041e"
+		},
+		"symbol-namespace": {
+			"fontCharacter": "\\041f"
+		},
+		"symbol-module": {
+			"fontCharacter": "\\041f"
+		},
+		"symbol-variable": {
+			"fontCharacter": "\\0420"
+		},
+		"symbol-operator": {
+			"fontCharacter": "\\0421"
+		},
+		"symbol-numeric": {
+			"fontCharacter": "\\0422"
+		},
+		"symbol-enum": {
+			"fontCharacter": "\\0423"
+		},
+		"symbol-value": {
+			"fontCharacter": "\\0423"
+		},
+		"symbol-property": {
+			"fontCharacter": "\\0424"
+		},
+		"symbol-constant": {
+			"fontCharacter": "\\0425"
+		},
+		"symbol-parameter": {
+			"fontCharacter": "\\0426"
+		},
+		"symbol-type-parameter": {
+			"fontCharacter": "\\0426"
+		},
+		"symbol-misc": {
+			"fontCharacter": "\\0427"
+		},
+		"symbol-interface": {
+			"fontCharacter": "\\0428"
+		},
+		"symbol-field": {
+			"fontCharacter": "\\0429"
+		},
+		"symbol-file": {
+			"fontCharacter": "\\042a"
+		},
+		"symbol-boolean": {
+			"fontCharacter": "\\042b"
+		},
+		"symbol-null": {
+			"fontCharacter": "\\042b"
+		},
+		"symbol-color": {
+			"fontCharacter": "\\042c"
+		},
+		"symbol-method": {
+			"fontCharacter": "\\042d"
+		},
+		"symbol-ruler": {
+			"fontCharacter": "\\042e"
+		},
+		"symbol-enum-member": {
+			"fontCharacter": "\\042f"
+		},
+		"symbol-array": {
+			"fontCharacter": "\\0430"
+		},
+		"go-to-file": {
+			"fontCharacter": "\\0431"
+		},
+		"symbol-reference": {
+			"fontCharacter": "\\0431"
+		},
+		"symbol-folder": {
+			"fontCharacter": "\\0432"
+		},
+		"folder": {
+			"fontCharacter": "\\0432"
+		}
 	}
 }
