@@ -188,6 +188,12 @@
 		"symbol-module": {
 			"fontCharacter": "\\041f"
 		},
+		"symbol-package": {
+			"fontCharacter": "\\041f"
+		},
+		"symbol-object": {
+			"fontCharacter": "\\041f"
+		},
 		"symbol-variable": {
 			"fontCharacter": "\\0420"
 		},
