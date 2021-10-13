@@ -265,6 +265,18 @@
 		},
 		"folder": {
 			"fontCharacter": "\\0432"
+		},
+		"beaker": {
+			"fontCharacter": "\\0433"
+		},
+		"lock": {
+			"fontCharacter": "\\0434"
+		},
+		"unlock": {
+			"fontCharacter": "\\0435"
+		},
+		"terminal": {
+			"fontCharacter": "\\0435"
 		}
 	}
 }

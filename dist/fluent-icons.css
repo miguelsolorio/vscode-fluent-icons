@@ -5,7 +5,7 @@
 
 @font-face {
 	font-family: "fluent-icons";
-	src: url("./fluent-icons.ttf?fcf23f57341ad6d284aab6c87d8bac79") format("truetype");
+	src: url("./fluent-icons.ttf?8da6c153ea27ac8c94451527f06ef881") format("truetype");
 }
 
 .fluent-icons {
@@ -95,3 +95,7 @@
 .fluent-icons-symbol-array:before { content: "\430" }
 .fluent-icons-go-to-file:before { content: "\431" }
 .fluent-icons-folder:before { content: "\432" }
+.fluent-icons-beaker:before { content: "\433" }
+.fluent-icons-lock:before { content: "\434" }
+.fluent-icons-unlock:before { content: "\435" }
+.fluent-icons-terminal:before { content: "\436" }

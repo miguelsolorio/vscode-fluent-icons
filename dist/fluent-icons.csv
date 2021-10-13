@@ -1,6 +1,7 @@
 short_name,character,unicode
 activate-breakpoints,Џ,040F
 add,Ѝ,040D
+beaker,г,0433
 bell,✤,2724
 cancel,✝,271D
 clear-all,✢,2722
@@ -29,6 +30,7 @@ github,Ж,0416
 go-to-file,б,0431
 lightbulb,✦,2726
 live-share,Е,0415
+lock,д,0434
 new-file,✗,2717
 new-folder,✘,2718
 person,✕,2715
@@ -69,5 +71,7 @@ symbol-string,Н,041D
 symbol-structure,Л,041B
 symbol-variable,Р,0420
 sync,✥,2725
+terminal,ж,0436
 trash,Ќ,040C
+unlock,е,0435
 warning,✣,2723
