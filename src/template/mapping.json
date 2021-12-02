@@ -75,5 +75,8 @@
   "beaker": 1075,
   "lock": 1076,
   "unlock": 1077,
-  "terminal": 1078
+  "terminal": 1078,
+  "bot": 1079,
+  "feedback": 1080,
+  "bell-dot": 1081
 }

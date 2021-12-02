@@ -2,7 +2,9 @@ short_name,character,unicode
 activate-breakpoints,Џ,040F
 add,Ѝ,040D
 beaker,г,0433
+bell-dot,й,0439
 bell,✤,2724
+bot,з,0437
 cancel,✝,271D
 clear-all,✢,2722
 close-all,Ў,040E
@@ -21,6 +23,7 @@ debug,✓,2713
 editor-layout,✛,271B
 error,✠,2720
 extensions,✔,2714
+feedback,и,0438
 files,✐,2710
 filter,✧,2727
 fluent,З,0417

@@ -277,6 +277,18 @@
 		},
 		"terminal": {
 			"fontCharacter": "\\0436"
+		},
+		"hubot": {
+			"fontCharacter": "\\0437"
+		},
+		"copilot-logo": {
+			"fontCharacter": "\\0437"
+		},
+		"feedback": {
+			"fontCharacter": "\\0438"
+		},
+		"bell-dot": {
+			"fontCharacter": "\\0439"
 		}
 	}
 }
