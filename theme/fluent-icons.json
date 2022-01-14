@@ -289,6 +289,12 @@
 		},
 		"bell-dot": {
 			"fontCharacter": "\\0439"
+		},
+		"layout": {
+			"fontCharacter": "\\043a"
+		},
+		"play": {
+			"fontCharacter": "\\2729"
 		}
 	}
 }

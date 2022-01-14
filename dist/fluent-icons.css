@@ -5,7 +5,7 @@
 
 @font-face {
 	font-family: "fluent-icons";
-	src: url("./fluent-icons.ttf?6004620d1fc064116e4e7580beefa8e2") format("truetype");
+	src: url("./fluent-icons.ttf?1e87f4fd401820b704141caa9574e5ed") format("truetype");
 }
 
 .fluent-icons {
@@ -102,3 +102,5 @@
 .fluent-icons-bot:before { content: "\437" }
 .fluent-icons-feedback:before { content: "\438" }
 .fluent-icons-bell-dot:before { content: "\439" }
+.fluent-icons-layout:before { content: "\43a" }
+.fluent-icons-run:before { content: "\43b" }

@@ -78,5 +78,7 @@
   "terminal": 1078,
   "bot": 1079,
   "feedback": 1080,
-  "bell-dot": 1081
+  "bell-dot": 1081,
+  "layout": 1082,
+  "run": 1083
 }
