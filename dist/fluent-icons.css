@@ -5,7 +5,7 @@
 
 @font-face {
 	font-family: "fluent-icons";
-	src: url("./fluent-icons.ttf?1e87f4fd401820b704141caa9574e5ed") format("truetype");
+	src: url("./fluent-icons.ttf?b8e92a9ec2f4650adc8d738293cbe0e1") format("truetype");
 }
 
 .fluent-icons {
@@ -104,3 +104,6 @@
 .fluent-icons-bell-dot:before { content: "\439" }
 .fluent-icons-layout:before { content: "\43a" }
 .fluent-icons-run:before { content: "\43b" }
+.fluent-icons-sidebar-left:before { content: "\43c" }
+.fluent-icons-sidebar-right:before { content: "\43d" }
+.fluent-icons-panel-bottom:before { content: "\43e" }

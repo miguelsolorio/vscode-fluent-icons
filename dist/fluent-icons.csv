@@ -37,6 +37,7 @@ live-share,Е,0415
 lock,д,0434
 new-file,✗,2717
 new-folder,✘,2718
+panel-bottom,о,043E
 person,✕,2715
 play,✩,2729
 remote-explorer,А,0410
@@ -45,6 +46,8 @@ save,✜,271C
 scm,✒,2712
 search,✑,2711
 settings,✖,2716
+sidebar-left,м,043C
+sidebar-right,н,043D
 split-horizontal,✞,271E
 split-vertical,✟,271F
 stop,✪,272A

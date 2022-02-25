@@ -80,5 +80,9 @@
   "feedback": 1080,
   "bell-dot": 1081,
   "layout": 1082,
-  "run": 1083
+  "run": 1083,
+  "sidebar-left": 1084,
+  "sidebar-right": 1085,
+  "panel-bottom": 1086
+
 }

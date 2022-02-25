@@ -295,6 +295,15 @@
 		},
 		"play": {
 			"fontCharacter": "\\2729"
+		},
+		"layout-sidebar-left": {
+			"fontCharacter": "\\043c"
+		},
+		"layout-sidebar-right": {
+			"fontCharacter": "\\043d"
+		},
+		"layout-panel": {
+			"fontCharacter": "\\043e"
 		}
 	}
 }
