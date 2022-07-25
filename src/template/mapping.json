@@ -83,6 +83,8 @@
   "run": 1083,
   "sidebar-left": 1084,
   "sidebar-right": 1085,
-  "panel-bottom": 1086
-
+  "panel-bottom": 1086,
+  "sidebar-left-collapse": 1087,
+  "sidebar-right-collapse": 1088,
+  "panel-bottom-collapse": 1089
 }
