@@ -1,18 +1,18 @@
 {
-	"fonts": [
-		{
-			"id": "fluent-icons",
-			"src": [
-				{
-					"path": "./fluent-icons.ttf",
-					"format": "truetype"
-				}
-			],
-			"weight": "normal",
-			"style": "normal"
-		}
-	],
-	"iconDefinitions": {
+  "fonts": [
+    {
+      "id": "fluent-icons",
+      "src": [
+        {
+          "path": "./fluent-icons.ttf",
+          "format": "truetype"
+        }
+      ],
+      "weight": "normal",
+      "style": "normal"
+    }
+  ],
+  "iconDefinitions": {
     "files": {
       "fontCharacter": "\\2710"
     },
@@ -278,9 +278,6 @@
       "fontCharacter": "\\0436"
     },
     "hubot": {
-      "fontCharacter": "\\0437"
-    },
-    "copilot-logo": {
       "fontCharacter": "\\0437"
     },
     "feedback": {
